@@ -1,5 +1,4 @@
-# JulianaGavilan
-Mi perfil publico 
+
 # Hola, soy Juliana Gavilán 
 
 Ingeniera Civil | Ahora Aspirante a QA Engineer Junior
