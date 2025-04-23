@@ -1,4 +1,4 @@
-
+<img decoding="async" src="https://github.com/JulianaGavilan/JulianaGavilan/blob/main/Portada%20de%20Facebook%20Frase%20Motivacional%20Retro%20Rosa%20Rojo%20(2).png">
 # Hola, soy Juliana Gavilán 
 
 Ingeniera Civil | Ahora Aspirante a QA Engineer Junior
@@ -20,6 +20,31 @@ Mi experiencia en ingeniería civil me ha proporcionado una sólida base en:
 
 Estoy buscando mi primera oportunidad como QA Engineer para aplicar mis habilidades y contribuir a la entrega de software de alta calidad.
 
+
+<img decoding="async" 
+     src="https://img.shields.io/badge/DevTools-FADADD?style=for-the-badge&logo=Drawio&logoColor=white" 
+     alt="Drawio"/>
+<img decoding="async" 
+     src="https://img.shields.io/badge/Python-E6E6FA?style=for-the-badge&logo=python&logoColor=white" 
+     alt="python"/>
+<img decoding="async" 
+     src="https://img.shields.io/badge/PyCharm-B2E0F7?&style=for-the-badge&logo=PyCharm&logoColor=white" 
+     alt="PyCharm"/>
+<img decoding="async" 
+     src="https://img.shields.io/badge/Git_Bash-FFFACD?&style=for-the-badge&logo=GitBash&logoColor=white" 
+     alt="GitBash"/>
+<img decoding="async" 
+     src="https://img.shields.io/badge/GitHub-C1F0DC?&style=for-the-badge&logo=GitHub&logoColor=white" 
+     alt="GitHub"/>
+<img decoding="async"
+     src="https://img.shields.io/badge/Selenium-FFDAB9?style=for-the-badge&logo=Selenium&logoColor=white" 
+     alt="Selenium"/>
+<img decoding="async" 
+     src="https://img.shields.io/badge/Pytest-AEDFF7?style=for-the-badge&logo=pytest&logoColor=white" 
+     alt="pytest"/>
+<img decoding="async"
+     src="https://img.shields.io/badge/Pip-FFB6B9?style=for-the-badge&logo=Pip&logoColor=white" 
+     alt="Pip"/>
 ## Contacto
 
 * juliana.gavilanp98@gmail.com
