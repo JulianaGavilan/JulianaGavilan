@@ -55,6 +55,15 @@ Estoy buscando mi primera oportunidad como QA Engineer para aplicar mis habilida
 <img decoding="async" 
      src="https://img.shields.io/badge/Informe de Errrores-B2E0F7?&style=for-the-badge&logo=informe&logoColor=white" 
      alt="Informe de Errrores"/>
+<img decoding="async" 
+     src="https://img.shields.io/badge/Analisis de requisitos-FFFACD?&style=for-the-badge&logo=a&logoColor=white" 
+     alt="Analisis de requisitos"/>
+<img decoding="async" 
+     src="https://img.shields.io/badge/Diseño de pruebas-C1F0DC?&style=for-the-badge&logo=Diseño de pruebas&logoColor=white" 
+     alt="Diseño de pruebas"/>
+<img decoding="async"
+     src="https://img.shields.io/badge/Casos de Prueba-FFDAB9?style=for-the-badge&logo=Casos de Prueba&logoColor=white" 
+     alt="Casos de Prueba"/>
   
 ## Contacto
 
