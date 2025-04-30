@@ -45,7 +45,6 @@ Estoy buscando mi primera oportunidad como QA Engineer para aplicar mis habilida
 <img decoding="async"
      src="https://img.shields.io/badge/Pip-FFB6B9?style=for-the-badge&logo=Pip&logoColor=white" 
      alt="Pip"/>
-
 <img decoding="async" 
      src="https://img.shields.io/badge/Pruebas de humo-FADADD?style=for-the-badge&logo=prueba&logoColor=white" 
      alt="Pruebas de humo"/>
