@@ -72,6 +72,15 @@ Estoy buscando mi primera oportunidad como QA Engineer para aplicar mis habilida
 <img decoding="async" 
      src="https://img.shields.io/badge/Pruebas de UI-FADADD?style=for-the-badge&logo=prueba&logoColor=white" 
      alt="Pruebas de UI"/>
+<img decoding="async" 
+     src="https://img.shields.io/badge/HTTP-E6E6FA?style=for-the-badge&logo=http&logoColor=white" 
+     alt="http"/>
+<img decoding="async" 
+     src="https://img.shields.io/badge/Pruebas de API-B2E0F7?&style=for-the-badge&logo=API&logoColor=white" 
+     alt="API"/>
+<img decoding="async" 
+     src="https://img.shields.io/badge/Postman-FFFACD?&style=for-the-badge&logo=Postman&logoColor=white" 
+     alt="Postman"/>
   
 ## Contacto
 
