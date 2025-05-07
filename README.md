@@ -87,6 +87,15 @@ Estoy buscando mi primera oportunidad como QA Engineer para aplicar mis habilida
 <img decoding="async"
      src="https://img.shields.io/badge/Android Studio-FFDAB9?style=for-the-badge&logo=Casos&logoColor=white" 
      alt="Casos de Prueba"/>
+  <img decoding="async" 
+     src="https://img.shields.io/badge/Bases de datos relacionales-AEDFF7?style=for-the-badge&logo=bugs&logoColor=white" 
+     alt="bugs"/>
+<img decoding="async"
+     src="https://img.shields.io/badge/SQL-FFB6B9?style=for-the-badge&logo=SQL&logoColor=white" 
+     alt="Jira"/>
+<img decoding="async" 
+     src="https://img.shields.io/badge/Linea de comandos-FADADD?style=for-the-badge&logo=prueba&logoColor=white" 
+     alt="Pruebas de UI"/>
   
 ## Contacto
 
